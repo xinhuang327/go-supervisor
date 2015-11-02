@@ -1,6 +1,7 @@
 Go Supervisor API Toolkit
 =========================
 API toolkit for Supervisor written in Go!
+Updated for lastest XMLRPC package. Added ReloadConfig.
 
 Event Listener
 --------------
